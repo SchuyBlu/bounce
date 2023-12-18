@@ -1,0 +1,5 @@
+# All python cache files
+*.pyc
+
+# All config files
+.venv
