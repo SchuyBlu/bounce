@@ -14,5 +14,6 @@ TARGET_FPS = 60
 
 # Colors
 BLUE_D = "#23243b"
+BLUE_S = "#131320"
 GREY_B = "#cad4e3"
 GREY_R = "#8aa0c1"
